@@ -1,7 +1,7 @@
 # Introduction-to-AI-Programming-Lab-Works-Tasks
-# 🧠 Introduction to AI Programming – Lab Works & Tasks
+# 🧠 Introduction to AI Programming – Lab Works Tasks
 
-This repository contains **lab works, practical tasks, and assignments** completed during the **Introduction to Artificial Intelligence Programming** course.
+This repository contains **lab works** completed during the **Introduction to Artificial Intelligence Programming** course.
 
 It reflects my hands-on learning process while understanding **basic AI concepts and Python-based implementations**.
 
